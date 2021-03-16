@@ -1,0 +1,10 @@
+TASK 5
+Breakfast, 2:58:08
+Toileting, 2:20:34
+Grooming, 2:40:42
+Sleeping, 131:03:31
+Leaving, 27:44:44
+Spare_Time/TV, 142:28:55
+Showering, 1:34:09
+Snack, 0:06:01
+Lunch, 5:13:31
